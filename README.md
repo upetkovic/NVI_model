@@ -194,6 +194,6 @@ In *International Conference on Simulation of Adaptive Behavior* (pp. 326–338)
 
 ---
 
-## 😋 Contact
+## Contact
 
 For questions or collaboration, please open an issue or contact the maintainer.
