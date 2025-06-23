@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nvi_project"
+version = "0.1.0"
+description = "Nonverbal Immediacy Prediction Toolkit"
+authors = [
+  { name = "Uroš Petković", email = "uros.petkovic@tu-berlin.de" }
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[project.scripts]
+nvi-predict = "utils.predict:main"  # adjust if needed

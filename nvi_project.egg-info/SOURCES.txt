@@ -1,0 +1,11 @@
+README.md
+__init__.py
+pyproject.toml
+test.py
+./__init__.py
+./test.py
+nvi_project.egg-info/PKG-INFO
+nvi_project.egg-info/SOURCES.txt
+nvi_project.egg-info/dependency_links.txt
+nvi_project.egg-info/entry_points.txt
+nvi_project.egg-info/top_level.txt

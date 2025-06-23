@@ -1,0 +1,54 @@
+{
+  "Anger": {
+    "mean": 0,
+    "std": 1
+  },
+  "Contempt": {
+    "mean": 0,
+    "std": 1
+  },
+  "Disgust": {
+    "mean": 0,
+    "std": 1
+  },
+  "Fear": {
+    "mean": 0,
+    "std": 1
+  },
+  "Happiness": {
+    "mean": 0,
+    "std": 1
+  },
+  "Neutral": {
+    "mean": 0,
+    "std": 1
+  },
+  "Sadness": {
+    "mean": 0,
+    "std": 1
+  },
+  "Surprise": {
+    "mean": 0,
+    "std": 1
+  },
+  "face_visibility": {
+    "mean": 0.8063324207245333,
+    "std": 0.21672534837119842
+  },
+  "mean_distance": {
+    "mean": 0.6278824732331059,
+    "std": 0.12843587377255575
+  },
+  "std_distance": {
+    "mean": 0.049230073648086806,
+    "std": 0.025783144727007875
+  },
+  "relative_time": {
+    "mean": 0.32817542610753364,
+    "std": 0.27175730795025993
+  },
+  "relative_changes": {
+    "mean": 0.30232589140816984,
+    "std": 0.20381990047305817
+  }
+}

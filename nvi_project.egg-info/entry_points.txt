@@ -1,0 +1,2 @@
+[console_scripts]
+nvi-predict = predict:main

@@ -1,0 +1,4 @@
+video_dir: "/media/uros/b497d77f-967a-48ec-aea0-5c352966318c/new_data/project31/data/Teacher_new_videos_analysis_shorten"
+output_dir: /media/uros/b497d77f-967a-48ec-aea0-5c352966318c/new_data/project31/data/NVI_additional
+json_first_frame_labels_path: "data/inputs/via_project_8Jun2025_12h21m_json.json"
+first_frames_dir: "data/inputs/first_frames_TALIS_new_videos_shorten"

@@ -1,0 +1,62 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyTorch / TensorFlow / ML checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pth*
+
+# Logs
+*.log
+
+# NumPy arrays
+*.npy
+*.npz
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Temporary files or editor backups
+*~
+*.swp
+*.bak
+
+# VSCode settings (optional)
+.vscode/
+
+./ckpt
+
+data/outputs/
+src/data_postprocessing/analytic_side
