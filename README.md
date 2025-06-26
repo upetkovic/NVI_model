@@ -32,7 +32,7 @@ If you're on **Ubuntu or Debian**, make sure you have it installed:
 ```bash
 sudo apt update
 sudo apt install build-essential
-
+```
 
 We recommend setting up the environment using the provided script:
 
