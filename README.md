@@ -23,6 +23,17 @@ To run this preprocessing pipeline efficiently, the following hardware and softw
 
 ## 🔧 Environment Setup
 
+⚠️ **Important Build Requirement**
+
+This project requires a C++ compiler (`g++`) to build certain CUDA/C++ extensions (e.g., GroundingDINO).
+
+If you're on **Ubuntu or Debian**, make sure you have it installed:
+
+```bash
+sudo apt update
+sudo apt install build-essential
+
+
 We recommend setting up the environment using the provided script:
 
 ```bash
